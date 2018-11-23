@@ -7,6 +7,7 @@ In Battlefield 4, every user has a nickname.
 
 ## Script in a nutshell
 The script target is to find real Origin accounts e-mails and write it to a local DB. </br>
+It is likely that these accounts purchased Battlefield 4. </br>
 The script is written in python and uses selenium to automate tasks. </br>
 
 ## Assumptions
@@ -41,7 +42,7 @@ ofir1997@yahoo.com
 
 The script found that ofir1997@hotmail.com is registered in origin, therefore it is written to a local database.
 
-## Screenshots with example
+## Screenshots
 
 
 
@@ -52,8 +53,8 @@ Note:
 To install selenium, use:
 ```pip install -U selenium```
 
-If you don't have chromewebdriver.exe, the script will download it, and find it path for you.
-If you experience issues with that, just manually download chromewebdriver.exe
+If you don't have chromewebdriver.exe, the script will download it, and find its path automatically.
+If you experience any issues with that, just manually download chromewebdriver.exe
 
 # License
 ```
