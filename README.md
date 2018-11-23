@@ -43,8 +43,7 @@ ofir1997@yahoo.com
 The script found that ofir1997@hotmail.com is registered in origin, therefore it is written to a local database.
 
 ## Screenshots
-
-
+![Script in Action](infograph.jpg)
 
 ## Dependencies 
 You must have Python 3.x , selenium , and chromewebdriver.exe in order for the script to work.
